@@ -1,0 +1,31 @@
+body {
+background-color:black;
+background-image: url(Vid/BG.gif); background-repeat: repeat;
+}
+
+video {
+background-image: url(Vid/Lan.jpg);
+outline: solid 3.5px;
+border-radius:30px;
+box-shadow:10px 10px black;
+}
+
+input {
+width:25%;
+height:24px;
+font-family:Courier;
+outline: solid 3.5px;
+
+
+}
+button {
+font-family:Courier;
+height:30px;
+outline: solid 3.5px;
+border-radius:0 10px 0 0;
+}
+
+.action {
+border-radius:30px;
+
+}
